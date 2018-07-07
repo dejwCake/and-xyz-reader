@@ -18,7 +18,11 @@
     <dimen name="card_padding_right">@dimen/card_padding_left</dimen>
 
     <dimen name="app_bar_height">320dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
     <dimen name="expanded_toolbar_height">80dp</dimen>
     <dimen name="expanded_toolbar_margin_bottom">40dp</dimen>
+
+    <dimen name="expanded_title_margin_end">64dp</dimen>
+    <dimen name="expanded_title_margin_start">48dp</dimen>
 
 </resources>
